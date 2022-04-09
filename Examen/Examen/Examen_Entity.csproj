@@ -155,6 +155,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\images\HIS.jpg" />
+    <Content Include="Assets\images\HPR.jpg" />
+    <Content Include="Assets\images\PHR.jpg" />
     <Content Include="BDEntity.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>BDEntity.edmx</DependentUpon>
@@ -193,6 +196,8 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="SQLScripts\SQLQuery Create-Destinos.sql" />
+    <Content Include="SQLScripts\SQLQuery Insert-Destinos.sql" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
