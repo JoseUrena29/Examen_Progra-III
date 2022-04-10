@@ -155,8 +155,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\images\HCA.jpg" />
+    <Content Include="Assets\images\HCRC.jpg" />
     <Content Include="Assets\images\HIS.jpg" />
-    <Content Include="Assets\images\HPR.jpg" />
     <Content Include="Assets\images\PHR.jpg" />
     <Content Include="BDEntity.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
